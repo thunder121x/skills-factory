@@ -1,0 +1,25 @@
+{
+  "name": "skills factory",
+  "owner": {
+    "name": "Nanphat Tongsirisukool",
+    "email": "nanphatx@hotmail.com"
+  },
+  "metadata": {
+    "description": "A collection of plugins and tools for building AI agents, including API integrations, data processing utilities, and agent management features. Use this repository to find and develop plugins that enhance the capabilities of your AI agents across various domains and applications.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "sec-apis",
+      "source": "./plugins/sec-apis",
+      "description": " Integrate with Thailand SEC OpenAPI for mutual funds, fund daily data, bonds, license checks, digital assets, PVD factsheets, One Report, and reference data. Use when calling api.sec.or.th, working with SEC subscription keys, retrieving Thai capital-market datasets, or building Python clients for SEC API products.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nanphat Tongsirisukool",
+        "email": "nanphatx@hotmail.com"
+      },
+      "license": "MIT",
+      "category": "apis"
+    }
+  ]
+}
