@@ -1,3 +1,11 @@
 {
-  "name": "sec-apis-v2"
+  "name": "sec-apis-v2",
+  "description": "Integrate with Thailand SEC Open APIs using documented v1/v2 paths, cursor pagination, latest-period factsheet queries, product-level subscription keys, and migrated Common API mappings.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nanphat Tongsirisukool",
+    "email": "nanphatx@hotmail.com"
+  },
+  "license": "MIT",
+  "category": "apis"
 }

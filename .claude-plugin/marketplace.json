@@ -20,6 +20,18 @@
       },
       "license": "MIT",
       "category": "apis"
+    },
+    {
+      "name": "sec-apis-v2",
+      "source": "./plugins/sec-apis-v2",
+      "description": "Integrate with Thailand SEC Open APIs using documented v1/v2 paths, cursor pagination, latest-period factsheet queries, product-level subscription keys, and migrated Common API mappings. Use when calling api.sec.or.th for SEC Open Data products, choosing endpoint paths, migrating legacy Fund/Bond/Common APIs, handling SEC rate limits, or retrieving Thai capital-market datasets.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nanphat Tongsirisukool",
+        "email": "nanphatx@hotmail.com"
+      },
+      "license": "MIT",
+      "category": "apis"
     }
   ]
 }
